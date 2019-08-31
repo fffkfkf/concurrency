@@ -11,6 +11,7 @@ public class ConcurrencyApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("11111111");
 	}
 
 }
